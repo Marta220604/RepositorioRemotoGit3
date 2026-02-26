@@ -8,6 +8,10 @@ public class Clase3 {
 		System.out.print("2 mensaje");
 		
 		System.out.print("3 mensaje");
+		
+		System.out.print("4 mensaje");
+		
+		System.out.print("5 mensaje");
 
 	}
 
